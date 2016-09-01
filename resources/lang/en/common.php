@@ -11,6 +11,17 @@ return [
 
 	'title' => 'rjdWebsites',
 
+	'content' => [
+		'copyright'		=>	'Copyright &copy; :date',
+		'portfolio'		=>	'Portfolio',
+		'skillset'		=>	'Skillset',
+		'eclasses'		=>	'eClasses.org',
+		'contact'		=>	'Contact',
+		'footnote'		=>	'*All designs created by graphic designers.',
+		'resumeDoc'		=>	'R&eacute;sum&eacute; (doc)',
+		'resumePDF'		=>	'R&eacute;sum&eacute; (pdf)',
+	],
+
 	'nav' => [
 		'home'			=>	'Home',
 		'about'			=>	'About',
@@ -20,10 +31,8 @@ return [
 		'resumes'		=>	'R&eacute;sum&eacute;s',
 	],
 
-	'portfolio' => [
-		'title'			=>	'Portfolio',
-		'footnote'		=>	'All designs created by graphic designers.',
-		'resumeDoc'		=>	'R&eacute;sum&eacute; (doc)',
-		'resumePDF'		=>	'R&eacute;sum&eacute; (pdf)',
+	'modal' => [
+		'close'			=>	'Close',
+		'close-x'		=>	'x',
 	],
 ];
