@@ -11,6 +11,12 @@ return [
 
 	'title' => 'rjdWebsites',
 
+	'pages' => [
+		'about'			=>	'About',
+		'contact'		=>	'Contact',
+		'development'	=>	'Development',
+	],
+
 	'content' => [
 		'copyright'		=>	'Copyright &copy; :date',
 		'portfolio'		=>	'Portfolio',

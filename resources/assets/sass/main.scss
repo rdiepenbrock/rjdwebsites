@@ -5,15 +5,15 @@ html {
 body {
   background-color: #eee !important;
   font-size: 100%;
-  margin-bottom: 60px;
-
-  min-height: 1450px;
   padding-top: 70px;
 }
-a,
-a:hover {
+a {
   color: #636b6f !important;
 }
+a:hover, h2, h3 {
+  color: #3D7392 !important;
+}
+
 .navbar-default {
   background-color: #3D7392 !important;
 }
@@ -34,15 +34,26 @@ a:hover {
 .navbar-default .navbar-nav > .open > a:focus {
   color: #000 !important;
 }
-.dropdown-menu .divider {
-  background-color: #636b6f !important;
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+  color: #fff !important;
 }
+.dropdown-menu .divider {
+  background-color: #3D7392 !important;
+}
+.jumbotron {
+  background-color: #ddd !important;
+  color: #717B6C !important;
+}
+.well {
+  background-color: #3D7392 !important;
+}
+.well, .well a {
+  color: #fff !important;
+  font-size: 12px !important;
+}
+
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 60px;
-  border-top:1px solid #636b6f;
+  border-top:1px solid #717B6C;
 }
 .margin-tb-10 {
   margin-top:10px;
@@ -50,20 +61,15 @@ a:hover {
 }
 
 @media screen and (min-width: 768px) {
-  body {
-    min-height:800px;
-  }
   .navbar-default .navbar-brand {
     font-size: 36px;
+  }
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #717B6C !important;
   }
 }
 
 @media screen and (min-width: 992px) {
-  body {
-    min-height:750px;
-  }
-  .navbar-default .navbar-brand {
-    font-size: 36px;
-  }
+
 }
 
