@@ -23,6 +23,6 @@ Route::get('contact', function () {
 	return view('contact');
 });
 
-Route::get('storage/eclasses', function () {
+Route::get('storage/eClasses', function () {
 	return view('/eClasses/');
 });

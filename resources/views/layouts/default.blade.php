@@ -59,7 +59,7 @@
 									<li><a href="{!! asset('storage/diepenbrock_resume.doc') !!}">@lang('common.content.resumeDoc')</a></li>
 									<li><a href="{!! asset('storage/diepenbrock_resume.pdf') !!}">@lang('common.content.resumePDF')</a></li>
 									<li role="separator" class="divider"></li>
-									<li><a href="{!! asset('storage/eclasses/') !!}">@lang('common.nav.development')</a></li>
+									<li><a href="{!! asset('storage/eClasses/') !!}">@lang('common.nav.development')</a></li>
 								</ul>
 							</li>
 						</ul>
