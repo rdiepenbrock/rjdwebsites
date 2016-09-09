@@ -2,6 +2,7 @@
 /public/storage
 /vendor
 /.idea
+/zold_site
 Homestead.json
 Homestead.yaml
 
