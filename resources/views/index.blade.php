@@ -52,17 +52,17 @@
 					<div class="row">
 						<div class="col-md-6">
 							<strong>Primary:</strong>
-							<p>laravel 4.2 and 5.x, php, boostrap, css3, html5, jquery</p>
+							<p>laravel php framework, php, mysql, boostrap, css3, html5, jquery</p>
 
 							<strong>Other:</strong>
-							<p>mysql, ajax, xml</p>
+							<p>postgres, ajax, xml</p>
 						</div>
 						<div class="col-md-6">
 							<strong>CMS:</strong>
-							<p>wordpress, drupal, snippetmaster, proprietary</p>
+							<p>wordpress, snippetmaster, proprietary</p>
 
 							<strong>VMs/Servers:</strong>
-							<p>homestead, virtualbox, iis 7, apache http</p>
+							<p>docker, laragon, homestead</p>
 						</div>
 					</div>
 
@@ -84,6 +84,10 @@
 
 						<div class="hidden-xs col-md-6">
 							<a href="http://www.linkedin.com/in/rjdiepenbrock" target="new"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_120x33.gif" width="120" height="33" alt="View RJ Diepenbrock's profile on LinkedIn" /></a>
+							
+							<p><a href="https://github.com/rdiepenbrock"><i class="fa fa-github"></i> Github</a></p>
+							
+							<p><a href="https://twitter.com/rjdwebsites"><i class="fa fa-twitter"></i> @rjdwebsites</a></p>
 						</div>
 						<div class="col-md-6">
 							<address class="hidden-xs text-right">
