@@ -9,9 +9,10 @@
 @import "main";
 
 // Bootstrap
-//@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "../../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
 // Font Awesome
+$fa-font-path: "../../fonts";
 @import "../font-awesome-4.7.0/scss/font-awesome.scss";
 
 /*!

@@ -84,10 +84,11 @@
 
 						<div class="hidden-xs col-md-6">
 							<a href="http://www.linkedin.com/in/rjdiepenbrock" target="new"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_120x33.gif" width="120" height="33" alt="View RJ Diepenbrock's profile on LinkedIn" /></a>
+							<br><br>
 							
-							<p><a href="https://github.com/rdiepenbrock"><i class="fa fa-github"></i> Github</a></p>
+							<p><a href="https://github.com/rdiepenbrock" target="_blank"><i class="fa fa-github"></i> Github</a></p>
 							
-							<p><a href="https://twitter.com/rjdwebsites"><i class="fa fa-twitter"></i> @rjdwebsites</a></p>
+							<p><a href="https://twitter.com/rjdwebsites" target="_blank"><i class="fa fa-twitter"></i> @rjdwebsites</a></p>
 						</div>
 						<div class="col-md-6">
 							<address class="hidden-xs text-right">

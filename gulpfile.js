@@ -14,6 +14,8 @@ const elixir = require('laravel-elixir');
  */
 
 elixir(mix => {
+    mix.copy('assets/font-awesome-4.7.0/fonts', 'public/fonts');
+
     mix.sass('app.scss')
        .webpack('app.js');
 });
