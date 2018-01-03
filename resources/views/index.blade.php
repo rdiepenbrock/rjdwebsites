@@ -126,7 +126,64 @@
 					</div>
 					<div class="modal-body">
 						<div class="container-fluid">
-
+							
+							<div class="col-md-12">
+								<div class="row col-md-6">
+									<h4>Freedom Driven LLC</h4>
+									<div class="col-md-10">
+										<div class="text-center">Flippilot</div>
+										<img src="/images/portfolio/fd_flippilot.png" class="img-rounded center-block img-responsive" alt="Flippilot" />
+										<div class="small text-center">Laravel 5.4, Vue.js application development, 2017</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<h4>Cogent GPS</h4>
+									<div class="col-md-12">
+										<div class="text-center">SNIX</div>
+										<img src="/images/portfolio/cgps_snix.png" class="img-rounded center-block img-responsive" alt="Cogent GPS - SNIX" />
+										<div class="small text-center">Laravel 5.3 application development, 2017</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="col-md-12">
+								<h4>Cleverly Engaged Marketing</h4>
+								<div class="col-md-4">
+									<div class="text-center">c2mtech.com</div>
+									<img src="/images/portfolio/cem_c2mtech.png" class="img-rounded center-block img-responsive" alt="C2mtech.com" />
+									<div class="small text-center">WordPress optimization, 2017.</div>
+								</div>
+								<div class="col-md-4">
+									<div class="text-center">DallasPalmsVenue.com</div>
+									<img src="/images/portfolio/cem_dallaspalms.png" class="img-rounded center-block img-responsive" alt="DallasPalmsVenue.com" />
+									<div class="small text-center">WordPress optimization, 2017.</div>
+								</div>
+								<div class="col-md-4">
+									<div class="text-center">HettlerInsurance.com</div>
+									<img src="/images/portfolio/cem_hettlerinsurance.png" class="img-rounded center-block img-responsive" alt="HettlerInsurance.com" />
+									<div class="small text-center">WordPress optimization, 2017.</div>
+								</div>
+							</div>
+							
+							<div class="col-md-12">
+								<h4>Website Solutions Company</h4>
+								<div class="col-md-4">
+									<div class="text-center">TownCreekProperties.com</div>
+									<img src="/images/portfolio/wsc_towncreekproperties.png" class="img-rounded center-block img-responsive" alt="TownCreekProperties.com" />
+									<div class="small text-center">Coding project.<br>Completed in 2017.</div>
+								</div>
+								<div class="col-md-4">
+									<div class="text-center">CPSChumann.com</div>
+									<img src="/images/portfolio/wsc_cpschumann.png" class="img-rounded center-block img-responsive" alt="CPSchumann.com" />
+									<div class="small text-center">Coding project.<br>Completed in 2017.</div>
+								</div>
+								<div class="col-md-4">
+									<div class="text-center">TXMSS.com</div>
+									<img src="/images/portfolio/wsc_txmss.png" class="img-rounded center-block img-responsive" alt="TXMSS.com" />
+									<div class="small text-center">Coding project.<br>Completed in 2016.</div>
+								</div>
+							</div>
+							
 							<div class="col-md-12">
 								<h4>Gruene Acres Web Design</h4>
 								<div class="col-md-4">
@@ -147,40 +204,18 @@
 							</div>
 
 							<div class="col-md-12">
-								<div class="row col-md-8">
+								<div class="row col-md-12">
 									<h4>Acquinity Interactive</h4>
-									<div class="col-md-7">
+									<div class="col-md-4">
 										<div class="text-center">Sweepstakes.com</div>
 										<img src="/images/portfolio/ai_sweepstakes.png" class="img-rounded center-block img-responsive" alt="Sweepstakes.com" />
 										<div class="small text-center">Coding project in collaboration with<br>.Net developer.<br>Completed in 2012</div>
 									</div>
-									<div class="col-md-5">
+									<div class="col-md-4">
 										<div class="text-center">AmericanCreditReport.com</div>
 										<img src="/images/portfolio/ai_acr.png" class="img-rounded center-block img-responsive" alt="AmericanCreditReport.com" />
 										<div class="small text-center">Coding project in collaboration with .Net developer.<br>Completed in 2012</div>
 									</div>
-								</div>
-								<div class="col-md-4">
-									<h4>Tera U.S.</h4>
-									<div class="col-md-12">
-										<div class="text-center">FayObserver.com</div>
-										<img src="/images/portfolio/tu_fayobserver.png" class="img-rounded center-block img-responsive" alt="FayObserver.com" />
-										<div class="small text-center">Moved code to XHTML; created templates for Kentico CMS.<br>Completed in 2009.</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-md-12">
-								<h4>Tracfone</h4>
-								<div class="col-md-4">
-									<div class="text-center">Tracfone.com</div>
-									<img src="/images/portfolio/tf_tracfone.png" class="img-rounded center-block img-responsive" alt="Tracfone.com" />
-									<div class="small text-center">Content updates for Tracfone and Tracfone Spanish sites, 2008.</div>
-								</div>
-								<div class="col-md-4">
-									<div class="text-center">Net10.com</div>
-									<img src="/images/portfolio/tf_net10.png" class="img-rounded center-block img-responsive" alt="Net10.com" />
-									<div class="small text-center">Content updates for Net10 and Net10 Spanish sites, 2008.</div>
 								</div>
 							</div>
 
