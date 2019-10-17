@@ -52,14 +52,14 @@
 					<div class="row">
 						<div class="col-md-6">
 							<strong>Primary:</strong>
-							<p>laravel php framework, php, mysql, boostrap, css3, html5, jquery</p>
+							<p>laravel, php, vuejs, jquery, mysql, boostrap, css3, html5</p>
 
 							<strong>Other:</strong>
-							<p>postgres, ajax, xml</p>
+							<p>postgres, ajax, xml, graphql</p>
 						</div>
 						<div class="col-md-6">
 							<strong>CMS:</strong>
-							<p>wordpress, snippetmaster, proprietary</p>
+							<p>wordpress, gatsbyjs, proprietary</p>
 
 							<strong>VMs/Servers:</strong>
 							<p>docker, laragon, homestead</p>
@@ -83,12 +83,19 @@
 					<div class="row">
 
 						<div class="hidden-xs col-md-6">
-							<a href="http://www.linkedin.com/in/rjdiepenbrock" target="new"><img src="http://www.linkedin.com/img/webpromo/btn_viewmy_120x33.gif" width="120" height="33" alt="View RJ Diepenbrock's profile on LinkedIn" /></a>
-							<br><br>
-							
-							<p><a href="https://github.com/rdiepenbrock" target="_blank"><i class="fa fa-github"></i> Github</a></p>
-							
-							<p><a href="https://twitter.com/rjdwebsites" target="_blank"><i class="fa fa-twitter"></i> @rjdwebsites</a></p>
+							<p>
+								<a href="http://www.linkedin.com/in/rjdiepenbrock" target="new">
+									<i class="fa fa-linkedin"></i>
+								</a>
+								&nbsp;&nbsp;
+								<a href="https://github.com/rdiepenbrock" target="_blank">
+									<i class="fa fa-github"></i>
+								</a>
+								&nbsp;&nbsp;
+								<a href="https://twitter.com/rjdwebsites" target="_blank">
+									<i class="fa fa-twitter"></i>
+								</a>
+							</p>
 						</div>
 						<div class="col-md-6">
 							<address class="hidden-xs text-right">

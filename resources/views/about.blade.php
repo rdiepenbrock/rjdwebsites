@@ -63,7 +63,7 @@
 				<li>While at Tera US, I built and deployed client web sites in the Kentico content management system and went on-site to conduct training sessions in the same CMS. This work included using CSS, XHTML, Javascript and JQuery languages, and an understanding and ability to work with XML, .Net and C#.</li>
 				<li>And have worn the title of both webmaster (Big12.net and FanaticZone.com) and project manager – during the development of a sports stats engine - at Morris DigitalWorks.</li>
 			</ul>
-			<p>The <a href="/eclasses/">Development area</a> contains examples of the latest coding and scripting experiments I have undertaken.</p>
+			<p>The <a href="storage/eclasses/">Development area</a> contains examples of the latest coding and scripting experiments I have undertaken.</p>
 		</div>
 
 	</div>
